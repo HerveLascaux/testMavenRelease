@@ -2,10 +2,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>test</groupId>
 	<artifactId>testMavenRelease</artifactId>
-	<version>G1R0C0</version>
+	<version>G1R0C0-SNAPSHOT</version>
 	<scm>
 		<developerConnection>scm:git:https://github.com/HerveLascaux/testMavenRelease.git</developerConnection>
-    <tag>G1R0C0</tag>
   </scm>
 
 	<build>
